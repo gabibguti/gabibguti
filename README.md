@@ -23,7 +23,7 @@ More specifically, I'm part of a sub-team responsible for our direct contact wit
 
 In regard to the GOSST/OpenSSF security solutions that help securing the supply-chain, we can name:
 
-* [Scorecards][scorecards]: automated checks to evaluate and suggest security practices on your own project or your dependencies
+* [Scorecard][scorecard]: automated checks to evaluate and suggest security practices on your own project or your dependencies
 * [SLSA (pronounced "salsa")][slsa]: a check-list of standards and controls to prevent tampering, improve integrity, and secure packages and infrastructure in your projects, businesses or enterprises
 * [Sigstore][sigstore]: a new standard for signing, verifying and protecting software
 * [OSS-FUZZ][oss-fuzz]: a tool for fuzzing at scale and find bugs in critical projects, now fuzzing 800+ projects in 6 languages
@@ -34,7 +34,7 @@ In regard to the GOSST/OpenSSF security solutions that help securing the supply-
 [ossf]: https://openssf.org/ "OpenSSF website"
 [open-source-on-google]: https://opensource.googleblog.com/2021/08/metrics-spikes-and-uncertainty-open-source-contribution-during-a-global-pandemic.html "Blogpost about open source contributions by Google"
 [critical-projects]: https://github.com/ossf/wg-securing-critical-projects "Description of set of critical Open Source Projects, by OpenSSF"
-[scorecards]: https://securityscorecards.dev/ "Scorecards website"
+[scorecard]: https://securityscorecards.dev/ "Scorecard website"
 [slsa]: https://slsa.dev/ "SLSA website"
 [sigstore]: https://www.sigstore.dev/ "Sigstore website"
 [oss-fuzz]: https://github.com/google/oss-fuzz "OSS-FUZZ website"
