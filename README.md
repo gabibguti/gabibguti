@@ -4,22 +4,14 @@ Hi! I'm Gabriela, I have graduated in software engineering and have been working
 
 Here https://gabibguti.github.io/ I have put up a small portfolio (and it is forever a work in progress).
 
-I currently work as a software engineer at Google within GOSST team. If you wanna learn more about GOSST, keep on reading!
+I currently work as a software engineer at Google, and for some time I worked in this great team called GOSST. If you wanna learn more about GOSST, keep on reading!
 
-## About GOSST :ghost:
+### About GOSST :ghost:
 ![GOSST team logo](https://pbs.twimg.com/media/FRSTBmlUUAAXvry.jpg)
 
 GOSST was created as a response to the current scenario of [increasing attacks on supply chain projects][supply-chain-attacks]. The team counts with experienced open-source contributors and works along with the Open Source Security Foundation ([OpenSSF][ossf]) to develop and spread solutions to make open softwares safer at scale. You can read more about Google initiatives on open source on [this blogpost][open-source-on-google].
 
-More specifically, I'm part of a sub-team responsible for our direct contact with the Open Source community. We work around [critical open source projects][critical-projects] to help increase security, in any aspect or concern that might be relevant. As a team, our goal is to:
-
-* Build individual analyses and approaches for each project.
-* Evaluate and suggest solutions or enhancements that would better fit the repository and not overcharge the maintainers.
-* Welcome and conduct discussions about our suggestion or about any security solutions the maintainers prefer, as we can surely provide specific help according to their demands.
-* If possible and wanted, implement the changes ourselves and create PRs to contribute with the discussed improvements.
-* Collect any kinds of feedback, as we work closely with OpenSSF and any complains would be kindly heard.
-
-### Security Solutions
+#### Security Solutions
 
 In regard to the GOSST/OpenSSF security solutions that help securing the supply-chain, we can name:
 
